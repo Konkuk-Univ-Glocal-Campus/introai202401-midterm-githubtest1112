@@ -28,3 +28,7 @@ Fashion-MNIST는 의류와 관련된 이미지로 구성된 데이터셋으로, 
 * 해결책은 Visial Studo의 Jupyter Notebook에서 구현해야 합니다.
 * 수행하는 단계를 설명하기 위해 코드에 적절한 주석을 달아야 합니다.
 * 모든 플롯과 시각화는 결과 해석과 함께 포함되어야 합니다.
+
+#학생 추가 코멘트
+tensorflow 내용 까지 업로드 같이 하였습니다. 확인 바랍니다. mnist.ipynb파일이 tensorflow를 사용한 코드 입니다.
+
